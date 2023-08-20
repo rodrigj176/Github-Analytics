@@ -1,0 +1,12 @@
+(start)2022-04-12 00:24:00 : (finish)2022-04-12 00:34:00
+
+Batch #: 10
+
+Python:collected repo : 456  average number of stars : 13.04
+Python recent pushes in the last 60 seconds: 5
+
+Ruby:collected repo : 44  average number of stars : 489.48
+Ruby recent pushes in the last 60 seconds: 1
+
+PHP:collected repo : 57  average number of stars : 3.16
+PHP recent pushes in the last 60 seconds: 0
